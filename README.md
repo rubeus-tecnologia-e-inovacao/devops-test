@@ -1,7 +1,7 @@
 # Avaliação Técnica - DevOps
 
 ## Introdução
-<hr>
+
 <p>Se você chegou nesse repositório é porque está participando do processo seletivo de Analista de DevOps da Rubeus e já passou por algumas etapas, então primeiramente nossos parabéns!</p>
     
 <p>Agora com relação a esta etapa do processo seletivo, o objetivo é conhecer um pouco mais de suas capacidades técnicas. Não se preocupe se você não conseguir executar todos os desafios, faça o máximo que conseguir, o importante é que você consiga apresentar suas qualidades técnicas (e também suas dificuldades, se houver) ao apresentar seu teste.</p>
@@ -11,7 +11,6 @@
 <br>
 
 ## Requisitos iniciais
-<hr>
 
 <p>1) Criar uma conta no GitHub se ainda não possuir (https://github.com/)</p>
 
@@ -28,7 +27,6 @@
 <br>
 
 ## Desafio 1
-<hr>
 
 <p>O Objetivo principal é criar um processo de deploy para atualizações automatizadas da aplicação. Sinta-se livre pra definir o processo e as ferramentas (por exemplo: GitHub actions, Circleci, Jenkins, etc..) necessárias para o CI/CD.</p>
 
@@ -43,14 +41,12 @@
 <br>
 
 ## Desafio 2
-<hr>
 
 <p>O Objetivo desse segundo desafio é implementar alguma nova funcionalidade na aplicação base, sinta-se livre para escolher o que e como implementar. Não se preocupe em realizar algo muito elaborado ou complexo. O importante é que após a nova funcionalidade, você valide o deploy automatizado.</p>
 
 <br>
 
 ## Finalizando o teste | Apresentação
-<hr>
 
 <p>Conforme conversa com o recrutador, será agendado um call para que você possa apresentar sua avaliação. Tenha em mente que você terá 30 minutos (com tolerância pertinente é claro) para apresentar suas soluções, além de responder a aventuais dúvidas que os avaliadores tiverem com relação ao seu projeto no momento da apresentação.</p>
 
