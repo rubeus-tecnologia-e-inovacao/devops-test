@@ -6,23 +6,21 @@
     
 <p>Agora com relação a esta etapa do processo seletivo, o objetivo é conhecer um pouco mais de suas capacidades técnicas. Não se preocupe se você não conseguir executar todos os desafios, faça o máximo que conseguir, o importante é que você consiga apresentar suas qualidades técnicas (e também suas dificuldades, se houver) ao apresentar seu teste.</p>
 
-<p>Você terá uma semana para realizar este teste, se por algum motivo qualquer precisar de mais tempo, comunique ao recrutador com antecedência de até 1 (um) dia. Isso não será um problema, nem será um ponto negativo na sua avaliação.</p>
+<p>Você terá no mínimo uma semana para realizar este teste, combinando o dia de entrega com o recrutador. Se por algum imprevisto qualquer não puder apresentar o teste no dia combinado, comunique ao recrutador com antecedência de até 2 (dois) dias. Isso não será um problema, nem será um ponto negativo na sua avaliação.</p>
 
 <br>
 
 ## Requisitos iniciais
 
-<p>1) Criar uma conta no GitHub se ainda não possuir (https://github.com/)</p>
-
+<p>1) Faça o Fork desse repositório para a sua conta GitHub e desenvolva seu teste nesse fork. Mantenha o histórico de commits.</p>
+    
 <p>2) Criar uma conta no Google Cloud (https://cloud.google.com/) ou qualquer outro serviço de infraestrutura em nuvem de sua preferência, em que seja possível instanciar uma máquina virtual</p>
 
 <p>3) Criar uma conta no mLab (https://mlab.com/)</p>
 
-<p>4) Crie um repositório no GitHub seguindo o padrão (rubeus-devops-<\seu nome>), faça o clone do projeto base deste teste <https://github.dev/rubeus-tecnologia-e-inovacao/devops_test> para o seu repositório</p>
+<p>4) Crie uma instância (ou máquina virtual) no serviço de infraestrutura que você escolheu no passo 2. No Google Cloud, vá em: Compute Engine > Instâncias da VM > Criar Instância</p>
 
-<p>5) Crie uma instância (ou máquina virtual) no serviço de infraestrutura que você escolheu no passo 2. No Google Cloud, vá em: Compute Engine > Instâncias da VM > Criar Instância</p>
-
-<p>6) Acesse a instância por SSH, instale as dependências necessárias do projeto solicitado, e faça o deploy do mesmo a partir do seu repositório criado.</p>
+<p>5) Acesse a instância por SSH, instale as dependências necessárias do projeto solicitado, e faça o deploy do mesmo a partir do seu repositório criado.</p>
 
 <br>
 
