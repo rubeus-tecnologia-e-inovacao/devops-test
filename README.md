@@ -2,11 +2,9 @@
 
 ## Introdução
 
-<p>Se você chegou nesse repositório é porque está participando do processo seletivo de Analista de DevOps da Rubeus e já passou por algumas etapas, então primeiramente nossos parabéns!</p>
-    
-<p>Agora com relação a esta etapa do processo seletivo, o objetivo é conhecer um pouco mais de suas capacidades técnicas. Não se preocupe se você não conseguir executar todos os desafios, faça o máximo que conseguir, o importante é que você consiga apresentar suas qualidades técnicas (e também suas dificuldades, se houver) ao apresentar seu teste.</p>
+<p>Nesta etapa do processo seletivo, o objetivo é conhecer um pouco mais de suas capacidades técnicas. Não se preocupe se você não conseguir executar todos os desafios, <strong>faça o máximo que conseguir</strong>, o importante é que você consiga apresentar suas qualidades técnicas (e também suas dificuldades, se houver) ao apresentar seu teste.</p>
 
-<p>Você terá no mínimo uma semana para realizar este teste, combinando o dia de entrega com o recrutador. Se por algum imprevisto qualquer não puder apresentar o teste no dia combinado, comunique ao recrutador com antecedência de até 2 (dois) dias. Isso não será um problema, nem será um ponto negativo na sua avaliação.</p>
+<p>Você terá uma semana para realizar este teste. Se por algum imprevisto não puder apresentar o teste no dia combinado, comunique ao recrutador com antecedência de até 2 (dois) dias. Isso não será um problema, nem será um ponto negativo na sua avaliação.</p>
 
 <br>
 
@@ -44,9 +42,15 @@
 
 <br>
 
+## Importante!
+
+<p>Mantenha todo o histórico de commits no seu repositório, não se preocupe com padrões nas escritas destes commits, utilize o que se sentir mais a vontade.</p>
+
 ## Finalizando o teste | Apresentação
 
-<p>Conforme conversa com o recrutador, será agendado um call para que você possa apresentar sua avaliação. Tenha em mente que você terá 30 minutos (com tolerância pertinente é claro) para apresentar suas soluções, além de responder a aventuais dúvidas que os avaliadores tiverem com relação ao seu projeto no momento da apresentação.</p>
+<p>Você deverá enviar um email para <mailto:talentos@rubeus.com.br>talentos@rubeus.com.br</mailto> ao finalizar o teste ou até o prazo especificado. Utilize `Teste prático Devops - <Seu Nome>` como assunto do email, cujo conteúdo do email pode ser apenas o link de seu repositório no GitHub deste teste. Se preferir, aproveite o email para realizar as considerações pertinentes a respeito do desenvolvimento do seu teste.</p>
+
+<p>Conforme conversa com o recrutador, será agendado uma reunião para que você possa apresentar sua avaliação. Tenha em mente que você terá 30 minutos para apresentar suas soluções, além de responder a aventuais dúvidas que os avaliadores tiverem com relação ao seu projeto no momento da apresentação.</p>
 
 <p>Portanto, esteja com todo o seu ambiente preparado para execução e validação ao iniciar sua apresentação.</p>
 
