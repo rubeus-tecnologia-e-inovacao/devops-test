@@ -24,7 +24,27 @@
 
 <p>6) Acesse a instância por SSH, instale as dependências necessárias do projeto solicitado, e faça o deploy do mesmo a partir do seu repositório criado.</p>
 
+## Iniciando a aplicação
 <br>
+
+<p>Essa é uma aplicação em Laravel v8.57, e para executá-la você vai precisar do PHP 7.4 ou superior e o Composer.</p>
+
+<p>Comece configurando o seu .env, copie o arquivo .env-example para .env e altere as variaveis de ambiente da aplicação, com relação ao banco, segue um exemplo de conexão:</p>
+
+    DB_CONNECTION=mongodb
+    DB_HOST=172.27.0.44
+    DB_PORT=27017
+    DB_DATABASE=devops_test
+    DB_USERNAME=root
+    DB_PASSWORD=example
+
+<p>Para instalar as dependências do projeto, execute o composer a partir da raiz do projeto.</p>
+
+    composer install
+
+<p>Estando as dependências devidamente instaladas e o .env devidamente configurado, inicie a aplicação com o comando</p>
+
+    php artisan serve
 
 ## Desafio 1
 
