@@ -20,8 +20,9 @@
 
 <p>5) Acesse a instância por SSH, instale as dependências necessárias do projeto solicitado, e faça o deploy do mesmo a partir do seu repositório criado.</p>
 
-## Iniciando a aplicação
 <br>
+
+## Iniciando a aplicação
 
 <p>Essa é uma aplicação em Laravel v8.57, e para executá-la você vai precisar do PHP 7.4 ou superior e o Composer.</p>
 
@@ -41,6 +42,8 @@
 <p>Estando as dependências devidamente instaladas e o .env devidamente configurado, inicie a aplicação com o comando</p>
 
     php artisan serve
+
+<br>
 
 ## Desafio 1
 
@@ -65,6 +68,8 @@
 ## Importante!
 
 <p>Mantenha todo o histórico de commits no seu repositório, não se preocupe com padrões nas escritas destes commits, utilize o que se sentir mais à vontade.</p>
+
+<br>
 
 ## Finalizando o teste
 
