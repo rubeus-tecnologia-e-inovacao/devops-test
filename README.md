@@ -4,7 +4,7 @@
 
 <p>Nesta etapa do processo seletivo, o objetivo é conhecer um pouco mais de suas capacidades técnicas. Não se preocupe se você não conseguir executar todas as atividades, <strong>faça o máximo que conseguir</strong>, o importante é que você consiga apresentar suas qualidades técnicas (e também suas dificuldades, se houver) ao realizar o seu teste.</p>
 
-<p>Você terá uma semana para realizar este teste, depois disso será solicitado o envio do teste, no caso de ocorrer algum imprevisto, comunique o quanto antes, preferencialmente com antecedência de até 2 (dois) dias. Caso não seja possível, isso não será considerado um ponto negativo na sua avaliação.</p>
+<p>Você terá uma semana para realizar este teste, no caso de ocorrer algum imprevisto, comunique o quanto antes, preferencialmente com antecedência de até 2 (dois) dias. Caso não seja possível, isso não será considerado um ponto negativo na sua avaliação.</p>
 
 <br>
 
