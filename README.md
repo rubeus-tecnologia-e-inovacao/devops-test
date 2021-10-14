@@ -45,7 +45,7 @@
 
 <br>
 
-## Desafio 1
+## Atividade 1
 
 <p>O objetivo principal é criar um processo de deploy para atualizações automatizadas da aplicação. Sinta-se livre para definir o processo e as ferramentas (por exemplo: GitHub Actions, CircleCi, Jenkins, etc..) necessárias para o CI/CD.</p>
 
