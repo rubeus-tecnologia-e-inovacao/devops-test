@@ -8,6 +8,8 @@
 
 <p>Não se preocupe se você não conseguir executar todas as atividades, <strong>faça o máximo que der</strong>, o importante é que você nos mostre o que sabe (e também suas dificuldades, se houver).</p>
 
+<br>
+
 <p>Então, vamos começar? Boa sorte!</p>
 
 <br>
