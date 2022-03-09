@@ -2,8 +2,11 @@
 
 ## Introdução
 
-<p>Nosso objetivo aqui é conhecer um pouco mais sobre as suas capacidades técnicas.
-Não se preocupe se você não conseguir executar todas as atividades, <strong>faça o máximo que der</strong>, o importante é que você nos mostre o que sabe (e também suas dificuldades, se houver).</p>
+<p>Nosso objetivo aqui é conhecer um pouco mais sobre as suas capacidades técnicas.</p>
+
+<br>
+
+<p>Não se preocupe se você não conseguir executar todas as atividades, <strong>faça o máximo que der</strong>, o importante é que você nos mostre o que sabe (e também suas dificuldades, se houver).</p>
 
 <p>Então, vamos começar? Boa sorte!</p>
 
