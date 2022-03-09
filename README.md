@@ -74,8 +74,11 @@ Não se preocupe se você não conseguir executar todas as atividades, <strong>f
 
 ## Finalizando o desafio
 
-<p>Se você já está participando do nosso processo seletivo, nos avise que terminou o desafio, respondendo ao e-mail que te enviamos.
-Se você ainda não está em nenhuma seleção, entre para o nosso Banco de Talentos: https://portal.kenoby.com/rubeus/login?redirect=%2Frubeus%2Fcadastrar&1=1&utm_source=website&action=email </p>
+<p>Se você já está participando do nosso processo seletivo, nos avise que terminou o desafio, respondendo ao e-mail que te enviamos.</p>
+    
+    <br>
+    
+</p>Se você ainda não está em nenhuma seleção, entre para o nosso Banco de Talentos: https://portal.kenoby.com/rubeus/login?redirect=%2Frubeus%2Fcadastrar&1=1&utm_source=website&action=email </p>
 
 <p>Ao recebermos sua resposta, nossa equipe entrará em contato para agendar um bate-papo.</p>
 
