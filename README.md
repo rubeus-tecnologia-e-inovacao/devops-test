@@ -2,23 +2,24 @@
 
 ## Introdução
 
-<p>Nesta etapa do processo seletivo, o objetivo é conhecer um pouco mais de suas capacidades técnicas. Não se preocupe se você não conseguir executar todas as atividades, <strong>faça o máximo que conseguir</strong>, o importante é que você consiga apresentar suas qualidades técnicas (e também suas dificuldades, se houver) ao realizar o seu teste.</p>
+<p>Nosso objetivo aqui é conhecer um pouco mais sobre as suas capacidades técnicas.
+Não se preocupe se você não conseguir executar todas as atividades, <strong>faça o máximo que der</strong>, o importante é que você nos mostre o que sabe (e também suas dificuldades, se houver).</p>
 
-<p>Você terá uma semana para realizar este teste, no caso de ocorrer algum imprevisto, comunique o quanto antes, preferencialmente com antecedência de até 2 (dois) dias. Caso não seja possível, isso não será considerado um ponto negativo na sua avaliação.</p>
+<p>Então, vamos começar? Boa sorte!</p>
 
 <br>
 
 ## Requisitos iniciais
 
-<p>1) Faça o Fork privado desse repositório para a sua conta GitHub e desenvolva seu teste nesse fork.</p>
+<p>1) Faça o fork privado deste repositório para a sua conta GitHub e desenvolva seu teste nele.</p>
     
-<p>2) Criar uma conta no Google Cloud (https://cloud.google.com/) ou qualquer outro serviço de infraestrutura em nuvem de sua preferência, em que seja possível instanciar uma máquina virtual</p>
+<p>2) Crie uma conta no Google Cloud (https://cloud.google.com/) ou qualquer outro serviço de infraestrutura em nuvem de sua preferência, em que seja possível instanciar uma máquina virtual</p>
 
-<p>3) Criar uma conta no mLab (https://mlab.com/). Essa é uma sugestão, você pode ficar a vontade para utilizar um MongoDB em outro local, seja serviço ou VM.</p>
+<p>3) Crie uma conta no mLab (https://mlab.com/). Essa é uma sugestão, você pode ficar à vontade para utilizar um MongoDB em outro local, seja serviço ou VM.</p>
 
 <p>4) Crie uma instância no serviço de infraestrutura que você escolheu no passo 2.</p>
 
-<p>5) Instale as dependências necessárias do projeto solicitado, e faça o deploy do mesmo a partir do seu repositório criado.</p>
+<p>5) Instale as dependências necessárias do projeto solicitado e faça o deploy do mesmo a partir do seu repositório criado.</p>
 
 <br>
 
@@ -39,7 +40,7 @@
 
     composer install
 
-<p>Estando as dependências devidamente instaladas e o .env devidamente configurado, inicie a aplicação com o comando</p>
+<p>Com as dependências devidamente instaladas e o .env devidamente configurado, inicie a aplicação com o comando</p>
 
     php artisan serve
 
@@ -71,12 +72,13 @@
 
 <br>
 
-## Finalizando o teste
+## Finalizando o desafio
 
-<p>Você deverá enviar um email para <mailto:talentos@rubeus.com.br>talentos@rubeus.com.br</mailto> ao finalizar o teste ou até o prazo especificado. Utilize `Teste prático Devops` como assunto do email, cujo conteúdo do email pode ser apenas o link de seu repositório no GitHub deste teste. Se preferir, aproveite o email para realizar as considerações pertinentes a respeito do desenvolvimento do seu teste.</p>
+<p>Se você já está participando do nosso processo seletivo, nos avise que terminou o desafio, respondendo ao e-mail que te enviamos.
+Se você ainda não está em nenhuma seleção, entre para o nosso Banco de Talentos: https://portal.kenoby.com/rubeus/login?redirect=%2Frubeus%2Fcadastrar&1=1&utm_source=website&action=email </p>
 
-<p>Conforme combinado, será agendada uma reunião para avaliação do teste e resposta de eventuais dúvidas dos envolvidos, portanto, esteja com todo seu ambiente preparado para execução e validação para evitar quaisquer atrasos ou imprevistos durante a reunião.</p>
+<p>Ao recebermos sua resposta, nossa equipe entrará em contato para agendar um bate-papo.</p>
 
 <br>
  
-Bom trabalho!
+Até breve!
