@@ -79,7 +79,7 @@
 
 ## Finalizando o desafio
 
-<p>Se você já está participando do nosso processo seletivo, nos avise que terminou o desafio, respondendo ao e-mail que te enviamos.</p>
+<p>Se você já está participando do nosso processo seletivo, nos avise que terminou o desafio, enviando um e-mail ao pessoas@rubeus.com.br.</p>
     
 <br>
     
